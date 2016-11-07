@@ -1,4 +1,4 @@
 # rakibinisensec
 Rakibini sen seç uygulaması.
 
-GitHub Master Branch
+GitHub Development Branch
