@@ -1,4 +1,4 @@
-# rakibinisensec
+﻿# rakibinisensec
 Rakibini sen seç uygulaması.
 
-GitHub Development Branch
+Local Story10 Branch
